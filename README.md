@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Anastasiia Enne 🙃</h1>
+
+<h3 align="center">PhD student @ Bielefeld University</h3>
+
+<br>
+
+😄 Pronouns: *she/her*
 
 <!--
 **enne-anastasia/enne-anastasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
